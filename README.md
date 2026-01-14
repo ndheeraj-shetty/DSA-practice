@@ -23,7 +23,7 @@ Problems are solved with clean, optimized logic and organized topic-wise for eas
 ---
 
 ## 🛠️ Tech Stack
-- Language: Python
+- Language: Python/c++
 - Platforms: LeetCode, GeeksforGeeks, CodeStudio, strivers a2z
 
 ---
